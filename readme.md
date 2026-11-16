@@ -9,7 +9,7 @@ TechShell is a simple command-line shell written in C for CSC 222. It displays t
 
 ```bash
 git clone https://github.com/Ansari765/A-Simple-Shell.git
-cd https://github.com/Ansari765/A-Simple-Shell.git
+cd A-Simple-Shell.git
 gcc -Wall -Wextra -std=c11 techshell.c -o techshell
 ./techshell
 ```
